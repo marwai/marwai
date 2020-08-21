@@ -1,7 +1,22 @@
-[![Marcus' github stats](https://github-readme-stats.vercel.app/api?username=marwai)](https://github.com/marwai/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwai)](https://github.com/marwai/github-readme-stats)
-### View Count
-![Visitor Count](https://profile-counter.glitch.me/marwai/count.svg)
+Sparta Global Training :star:
+####    **Man-Wai Tse (```Marcus```)**,
+#####   Trainee DevOps Engineer,
+#####   [mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)  
+  
+  
+    Hi, welcome to my Github. 
+    All my learning material will be documented here. 
+    Please see the calendar for indivdiual breakdown of the work
+
+__View Count__  
+![Visitor Count](https://profile-counter.glitch.me/marwai/count.svg)    
+
+ :notebook_with_decorative_cover:      
+ 
+##### ``` Marcus' ``` Trainee Notes  [Here](https://github.com/marwai/DevOps)
+##### ```Marcus' ``` Linkedin [Here](https://www.linkedin.com/in/man-wai-tse-96mt/)
+##### ```Marcus' ``` Projects [Here](https://github.com/marwai/projects)
+##### ```Marcus' ``` Additional exercises [Here](https://github.com/marwai/additional_exercises) 
 
 #### :calendar: Calendar 
 - [x] Week 1 - [Business Week](https://github.com/marwai/DevOps/tree/master/devops_training/week_1_business_week)
@@ -14,3 +29,9 @@
 - [x] Week 8 - [Cloud Services](https://github.com/marwai/ci-start-code)    
 - [x] Week 9 - [Networking and Configuration Management](https://github.com/marwai/DevOps/tree/master/devops_training/week_9_networking)
 - [x] Week 10 - [Ansible, Terraforming](https://github.com/marwai/DevOps/tree/master/devops_training/week_10_ansible)
+
+
+
+### Additional Information
+[![Marcus' github stats](https://github-readme-stats.vercel.app/api?username=marwai)](https://github.com/marwai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwai)](https://github.com/marwai/github-readme-stats)
