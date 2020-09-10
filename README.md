@@ -1,7 +1,6 @@
 Sparta Global Training :star:
 ####    **Man-Wai Tse (```Marcus```)**,
-#####   Trainee DevOps Engineer,
-#####   [mtse@spartaglobal.com](mailto:mtse@spartaglobal.com)  
+#####   Junior DevOps Engineer
   
   
     Hi, welcome to my Github. 
