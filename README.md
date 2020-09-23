@@ -1,4 +1,4 @@
-Sparta Global Training :star:
+:star:
 ####    **Man-Wai Tse (```Marcus```)**,
 #####   Junior DevOps Engineer
   
